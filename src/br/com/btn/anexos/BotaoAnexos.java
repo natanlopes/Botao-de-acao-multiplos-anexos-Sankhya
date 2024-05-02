@@ -37,7 +37,7 @@ public class BotaoAnexos implements AcaoRotinaJava {
         JapeSession.SessionHandle hnd = null;
         Registro linha = contexto.getLinhas()[0];
         EntityFacade dwfFacade = EntityFacadeFactory.getDWFFacade();
-        BigDecimal ID = (BigDecimal) linha.getCampo("ID");//PEGANDO O ID DA TELA DE ANEXOS PODE SER A PK criar uma tela
+        BigDecimal ID = (BigDecimal) linha.getCampo("ID");//PEGANDO O ID DA TELA DE ANEXOS PODE SER A PK
 
         try {
             gerarArquivo(contexto, ID);
