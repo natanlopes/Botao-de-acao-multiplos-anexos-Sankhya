@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="jape">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/jape.jar!/" />
+      <root url="jar://$USER_HOME$/SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/mgecom-model-client.jar!/" />
+      <root url="jar://$USER_HOME$/SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/mge-modelcore.jar!/" />
+      <root url="jar://$USER_HOME$/SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/SankhyaW-extensions.jar!/" />
+      <root url="jar://$USER_HOME$/SDK/Bibliotecas-Sankya-Padroes-LIB-main/byte-buddy-1.14.9.jar!/" />
+      <root url="jar://$USER_HOME$/SDK/Bibliotecas-Sankya-Padroes-LIB-main/commons-fileupload-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/SDK/Bibliotecas-Sankya-Padroes-LIB-main/commons-io-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/SDK/Bibliotecas-Sankya-Padroes-LIB-main/jackson-core-2.17.0.jar!/" />
+      <root url="file://$USER_HOME$/SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava" />
+      <root url="jar://$USER_HOME$/SDK/Bibliotecas-Sankya-Padroes-LIB-main/jackson-annotations-2.17.0.jar!/" />
+      <root url="jar://$USER_HOME$/SDK/Bibliotecas-Sankya-Padroes-LIB-main/jackson-databind-2.17.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava" recursive="false" type="SOURCES" />
+  </library>
+</component>
